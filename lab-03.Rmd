@@ -77,6 +77,9 @@ long data allows for multiple rows for each entity, and instead records new attr
 Is the format `staff` data *wide* or *long*?
 
 
+This dataset is a wide dataset
+
+
 How many observations are there in the data set?
 
 
