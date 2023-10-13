@@ -47,7 +47,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
 _Write your comments about image 3 below_
-
+The graph is very unclear; there is no title on the graph describing what is being shown. The x-axis label ‘Rule of Law’ lacks specificity; There aren’t any values on the scale of the x or y axes which makes the graph hard to read, with the scale of the graph being such that the countries are very bunched together and difficult to interpret (no colour specifications, no country code specifications, the mean is also hard to identify).
 
 
 
