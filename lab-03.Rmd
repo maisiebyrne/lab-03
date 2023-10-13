@@ -82,7 +82,7 @@ This dataset is a wide dataset
 
 How many observations are there in the data set?
 
-
+There are 5 observations in the data set
 
 
 ## Exercise 2
