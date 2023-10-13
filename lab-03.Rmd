@@ -23,7 +23,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 _Write your comments about image 1 below_
 
-
+# There are a few issues with this data visualisation. Firstly, the proportion of the bars is incorrect toward the bars representing larger amounts of data, as well as the bar width of Chinese (this is also an incorrect name for the language of Mandarin) being different to the other bars, demonstrating poor scaling and labelling of variables. Furthermore, the order of magnitude for "Chinese" is different, being 1,026 billion speakers when it should be either 1.026 billion speakers or 1026 million speakers for consistency.
 
 
 
