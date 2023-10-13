@@ -139,7 +139,11 @@ staff_long <- staff_long %>%
 
 ```{r working-line-plot}
 # Write your code for Exercise 5 here
-
+ggplot(data = staff_long,
+       mapping = aes(x = year, 
+                     y = percent, 
+                     colour = faculty_type)) +
+geom_line()
 
 
 ```
