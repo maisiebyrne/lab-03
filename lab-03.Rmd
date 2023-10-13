@@ -72,7 +72,7 @@ staff <- read_csv("data/instructional-staff.csv")
 ## Exercise 1
 
 What is the difference between *wide format* data and *long format* data?
-
+long data allows for multiple rows for each entity, and instead records new attributes or observations as a new row in the dataset and a wide format contains values that do not repeat in the first column
 
 Is the format `staff` data *wide* or *long*?
 
