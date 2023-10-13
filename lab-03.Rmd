@@ -35,6 +35,8 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 
 _Write your comments about image 2 below_
 
+In image 2, the data is in the form of a pie chart when another form of visualisation would be better. Since the data is two numberical variables a line graph would make more sense to show the results. In addition to this, it is unclear what the height and wedge size represent as there is no key. 
+
 
 
 
