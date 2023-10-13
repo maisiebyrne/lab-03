@@ -153,6 +153,14 @@ geom_line()
 ```{r better-line-plot}
 # Write your code for Exercise 6 here
 
+ggplot(data = staff_long,
+       mapping = aes(x = year, 
+                     y = percent, 
+                     colour = faculty_type)) +
+geom_line() + 
+  labs(x = "Year", 
+       y = "Percentage of Staff in Each Faculty Type (%)",
+       title = "Percentage of Staff in Each Faculty Type per Year")
 
 
 
