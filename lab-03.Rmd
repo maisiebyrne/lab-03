@@ -58,8 +58,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-
-
+#Grouping of ‘developed countries’ with no clarification of what countries that includes. Scale on X axis is uneven- $100-$200 takes up more space than $40,000 to $60,000- the logarithmic axis makes it hard to understand the data.
 
 
 
